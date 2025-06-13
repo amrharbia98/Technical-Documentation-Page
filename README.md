@@ -1,2 +1,12 @@
 # Technical-Documentation-Page
-Hi, I’m Amr Harbia, an Egyptian front-end developer based in the U.S. I’m learning with freeCodeCamp and just built my first project: a responsive technical documentation page using HTML &amp; CSS. I'm passionate about web development and looking for opportunities to grow and contribute.
+Hello,
+
+My name is Amr Harbia, an aspiring web developer originally from Egypt, currently living in the United States. I recently completed my first project — a Technical Documentation Page — as part of my learning journey with freeCodeCamp. This project helped me practice HTML and CSS fundamentals, including responsive design using media queries.
+
+I am eager to continue improving my skills and contribute to real-world projects. I am confident that my dedication and continuous learning will make me a valuable addition to any development team.
+
+Thank you for considering my work.
+
+Best regards,
+Amr Harbia
+amrharbia98@gmail.com
